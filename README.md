@@ -34,7 +34,7 @@
 <p align="center"> 
   <a href="https://leetcode.com/Ishika_bansal04/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg2550.png" alt="leetcode-badge-Ishika" height="200" width="200" /></a>
     <a href="https://leetcode.com/Ishika_bansal04/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/lg25100.png" alt="leetcode-badge-Ishika" height="200" width="200" /></a>
-   <a href="https://leetcode.com/Ishika_bansal04/" target="_blank"><img align="center" src="https://assets.leetcode.com/users/images/3637db4b-c394-40f9-9464-a06a27d83a44_1735690151.7996294.png" alt="leetcode-badge-Ishika" height="200" width="200" /></a>  
+   <a href="https://leetcode.com/Ishika_bansal04/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/dcc-2025-10.png" alt="leetcode-badge-Ishika" height="200" width="200" /></a>  
 </p>
 
 ---
@@ -43,10 +43,10 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Proxy Web Server](https://github.com/GagandeepSingh20/Proxy_Web_Server) | Multi-threaded HTTP proxy server in C with LRU cache mechanism | C, Socket Programming, Semaphores, LRU Cache, Makefile |
+| [Gallery App](https://github.com/Ishikabansal567/Gallery-App) |A responsive gallery web application to display and organize image collections.| React, JavaScript, HTML, CSS, Vite|
 | [ReWear](https://github.com/dhruvaaArya05/ReWear) | A community clothing exchange platform for sustainable fashion | MERN, Tailwind |
-| [EcoNest](https://github.com/GagandeepSingh20/EcoShop) | Sustainable e-commerce platform promoting eco-friendly products | MERN, Tailwind |
-| [Amazon Clone](https://github.com/GagandeepSingh20/Amazon-Clone) | Pixel-perfect Amazon homepage clone | HTML, CSS, JavaScript, Bootstrap |
+| [SpendLens](https://github.com/Ishikabansal567/FinTech) |A Personal Finance tracking Web app with AI integration| MERN, Tailwind |
+| [EcoNest](https://github.com/dhruvaaArya05/EcoShop) | Sustainable e-commerce platform promoting eco-friendly products | MERN, Tailwind |
 
 ---
 
@@ -65,13 +65,11 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gagandeep-singh-choudhary-855a53242/">
+  <a href="https://www.linkedin.com/in/ishika-bansal-0b062b295/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-   <a href="https://x.com/Gagan_deep20" >
-  <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter" />
-</a>
-  <a href="mailto:gchoudhary16555@email.com">
+ 
+  <a href="mailto:ishikabansal1511@gmail.com">
     <img src="https://img.shields.io/badge/Email-D00000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
@@ -84,13 +82,13 @@
 ## 🧠 Currently Learning
 
 - Advanced Data Structures & Algorithms (DSA)
-- Machine Learning & Generative AI
-- Operating Systems & Computer Networks
+- MERN Stack & Generative AI
+- System Design 
 
 ---
 
 ## 📌 Fun Fact
 
-> *“I build not just with code, but with curiosity and purpose.”* 💡
+> *“Debugging feels like solving a puzzle I can’t stop until it works.”* 💡
 
 ---
