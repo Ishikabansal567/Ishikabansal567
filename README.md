@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&width=750&lines=Frontend+Developer+%7C+Passionate+Coder;Always+Learning+and+Building...." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&width=750&lines=Backend+Developer+%7C+Passionate+Coder;Always+Learning+and+Building...." alt="Typing SVG" />
 </p>
 
 
